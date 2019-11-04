@@ -1,0 +1,22 @@
+{
+  "name": "Ely's Automatic Housemaid",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/elys-automatic-housemaid/master/assets",
+  "book_id": 1220,
+  "book_url": "https://bubblin.io/book/ely-s-automatic-housemaid-by-elizabeth-w-bellamy"
+}
