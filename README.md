@@ -1,6 +1,6 @@
 # THE BOOK
 
-A Gutenberg classic for book-lovers on the web. Read the book <a href="https://bubblin.io/book/elys-automatic-housemaid-by-elizabeth-w-bellamy" class="cover">here</a>.
+A Gutenberg classic for book-lovers on the web. Read the book <a href="https://bubblin.io/book/ely-s-automatic-housemaid-by-elizabeth-w-bellamy" class="cover">here</a>.
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-by-hipsters.svg)](https://bubblin.io/about)
